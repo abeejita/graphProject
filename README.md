@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
-<h3 align="center">Servicio de visualización de gráfica en máquina virtual: [activa](http://20.106.98.129:8080/grafica)</h3>
-<h3 align="center">Servicio endpoint en máquina virtual: [activa](http://20.106.98.129:8080/datosGrafica)</h3>
+<h3 align="center">Visualización de gráfica en máquina virtual: [activa](http://20.106.98.129:8000/grafica)</h3>
+<h3 align="center">Servicio endpoint en máquina virtual: [activa](http://20.106.98.129:8000/datosGrafica)</h3>
 
 ## Made by
 <div align="center">
@@ -30,8 +30,8 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Para probar en el servidor:
-1. Abre *Restman* en tu navegador, ingresa http://20.106.98.129:8080/datosGrafica como url, selecciona el método POST, ingresa los datos de entrada establecidos en el [documento](https://docs.google.com/document/d/1yKSrOWrchsHJBOXwzhBn0ElaeDLgMEyYXAkI2K_nQeI/edit?usp=sharing) y visualiza los datos de salida.
-2. Da click [aquí](http://20.106.98.129:8080/grafica) para visualizar la gráfica.
+1. Abre *Restman* en tu navegador, ingresa http://20.106.98.129:8000/datosGrafica como url, selecciona el método POST, ingresa los datos de entrada establecidos en el [documento](https://docs.google.com/document/d/1yKSrOWrchsHJBOXwzhBn0ElaeDLgMEyYXAkI2K_nQeI/edit?usp=sharing) y visualiza los datos de salida.
+2. Da click [aquí](http://20.106.98.129:8000/grafica) para visualizar la gráfica.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -40,7 +40,7 @@
 2. Asegúrate de estar en un ambiente con Django instalado.
 3. En la terminal, ejecuta:
 `"python manage.py runserver"`
-4. Abre *Restman* en tu navegador, ingresa http://20.106.98.129:8080/datosGrafica como url, selecciona el método POST, ingresa los datos de entrada establecidos en el [documento](https://docs.google.com/document/d/1yKSrOWrchsHJBOXwzhBn0ElaeDLgMEyYXAkI2K_nQeI/edit?usp=sharing) y visualiza los datos de salida.
+4. Abre *Restman* en tu navegador, ingresa http://20.106.98.129:8000/datosGrafica como url, selecciona el método POST, ingresa los datos de entrada establecidos en el [documento](https://docs.google.com/document/d/1yKSrOWrchsHJBOXwzhBn0ElaeDLgMEyYXAkI2K_nQeI/edit?usp=sharing) y visualiza los datos de salida.
 5. Ingresa a la IP y puerto mostrado en tu terminal en algún navegador para visualizar la gráfica.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

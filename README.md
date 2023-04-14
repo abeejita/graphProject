@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
-<h1 align="center">Actividad 3.3: Creación de end point y gráfica</h1>
+<h1 align="center">Actividad 3.3: Creación de endpoint y gráfica</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
 <h3 align="center">Servicio de visualización de gráfica en máquina virtual: [activa](http://20.106.98.129:8080/grafica)</h3>
-<h3 align="center">Servicio para datos de entrada y salida en máquina virtual: [activa](http://20.106.98.129:8080/datosGrafica)</h3>
+<h3 align="center">Servicio endpoint en máquina virtual: [activa](http://20.106.98.129:8080/datosGrafica)</h3>
 
 ## Made by
 <div align="center">
